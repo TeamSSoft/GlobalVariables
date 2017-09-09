@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<Configuration uuid="0850f3bc-7be4-4dd9-ac70-8e15992dbaf2">
+		<InternalInfo>
+			<xr:ContainedObject>
+				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
+				<xr:ObjectId>f5c6f1aa-ca54-46b2-9cf2-76879af3e791</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
+				<xr:ObjectId>867d93fd-cf93-4f46-95b8-90baafe9bb62</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
+				<xr:ObjectId>222faa49-8d80-486c-9341-f7724802c528</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
+				<xr:ObjectId>9f39508d-4e6d-48da-a52c-0759639eddd8</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
+				<xr:ObjectId>7e0a45b3-ad78-4e3d-b521-b003eeef5d50</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
+				<xr:ObjectId>65caec19-e1c0-4921-ac9d-770eb816ad7b</xr:ObjectId>
+			</xr:ContainedObject>
+		</InternalInfo>
+		<Properties>
+			<Name>Конфигурация</Name>
+			<Synonym/>
+			<Comment/>
+			<NamePrefix/>
+			<ConfigurationExtensionCompatibilityMode>Version8_3_10</ConfigurationExtensionCompatibilityMode>
+			<DefaultRunMode>ManagedApplication</DefaultRunMode>
+			<UsePurposes>
+				<v8:Value xsi:type="app:ApplicationUsePurpose">PersonalComputer</v8:Value>
+			</UsePurposes>
+			<ScriptVariant>Russian</ScriptVariant>
+			<DefaultRoles/>
+			<Vendor/>
+			<Version/>
+			<UpdateCatalogAddress/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
+			<UseOrdinaryFormInManagedApplication>false</UseOrdinaryFormInManagedApplication>
+			<AdditionalFullTextSearchDictionaries/>
+			<CommonSettingsStorage/>
+			<ReportsUserSettingsStorage/>
+			<ReportsVariantsStorage/>
+			<FormDataSettingsStorage/>
+			<DynamicListsUserSettingsStorage/>
+			<Content/>
+			<DefaultReportForm/>
+			<DefaultReportVariantForm/>
+			<DefaultReportSettingsForm/>
+			<DefaultDynamicListSettingsForm/>
+			<DefaultSearchForm/>
+			<RequiredMobileApplicationPermissions>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Multimedia</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Location</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Contacts</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Calendars</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Telephony</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">PushNotification</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">LocalNotification</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Print</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">InAppPurchases</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Ads</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+			</RequiredMobileApplicationPermissions>
+			<MainClientApplicationWindowMode>Normal</MainClientApplicationWindowMode>
+			<DefaultInterface/>
+			<DefaultStyle/>
+			<DefaultLanguage>Language.Русский</DefaultLanguage>
+			<BriefInformation/>
+			<DetailedInformation/>
+			<Copyright/>
+			<VendorInformationAddress/>
+			<ConfigurationInformationAddress/>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
+			<ModalityUseMode>DontUse</ModalityUseMode>
+			<SynchronousPlatformExtensionAndAddInCallUseMode>DontUse</SynchronousPlatformExtensionAndAddInCallUseMode>
+			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
+			<CompatibilityMode>Version8_3_10</CompatibilityMode>
+			<DefaultConstantsForm/>
+		</Properties>
+		<ChildObjects>
+			<Language>Русский</Language>
+			<Subsystem>tss_gv_ГлобальныеПеременные</Subsystem>
+			<CommonModule>tss_gv_ГлобальныеПеременные</CommonModule>
+			<CommonModule>tss_gv_ГлобальныеПеременныеКлиент</CommonModule>
+			<CommonModule>tss_gv_ГлобальныеПеременныеПереопределяемый</CommonModule>
+			<InformationRegister>tss_gv_ЗначенияГлобальныхПеременных</InformationRegister>
+		</ChildObjects>
+	</Configuration>
+</MetaDataObject>
