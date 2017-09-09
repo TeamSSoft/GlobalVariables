@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+	<ConfigVersions>
+		<Metadata name="CommonModule.tss_gv_ГлобальныеПеременные" id="292cf304-52f8-42d6-8ba0-3894ebb195b8" configVersion="5fb0ed1bcc00a14193fa509d451bfe2c00000000"/>
+		<Metadata name="CommonModule.tss_gv_ГлобальныеПеременные.Module" id="292cf304-52f8-42d6-8ba0-3894ebb195b8.0" configVersion="1e9b991e1d1ee74cb22483d8b5b7869e00000000"/>
+		<Metadata name="CommonModule.tss_gv_ГлобальныеПеременныеКлиент" id="8fce5919-1842-43a7-981b-d1890dda1b4d" configVersion="78f071dfa301e84faf519bf1b82c2a4a00000000"/>
+		<Metadata name="CommonModule.tss_gv_ГлобальныеПеременныеКлиент.Module" id="8fce5919-1842-43a7-981b-d1890dda1b4d.0" configVersion="c15ec2c8699f8d49823870047408afea00000000"/>
+		<Metadata name="CommonModule.tss_gv_ГлобальныеПеременныеПереопределяемый" id="bb6f31b2-c596-4e7b-aae0-f55d02ddde65" configVersion="123193a3988d76409e6d4910ce85247900000000"/>
+		<Metadata name="CommonModule.tss_gv_ГлобальныеПеременныеПереопределяемый.Module" id="bb6f31b2-c596-4e7b-aae0-f55d02ddde65.0" configVersion="e16b40610992bf4c882fb9e7257808bb00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="0850f3bc-7be4-4dd9-ac70-8e15992dbaf2" configVersion="80a867270954ae49b7583e6799f4c40800000000"/>
+		<Metadata name="InformationRegister.tss_gv_ЗначенияГлобальныхПеременных" id="c3c53628-482b-4dce-ba94-85991dcc6d7a" configVersion="f8e49466d43c7440833f45d2c650856900000000">
+			<Metadata name="InformationRegister.tss_gv_ЗначенияГлобальныхПеременных.Dimension.Тип" id="353a2d92-a015-4ff6-9aea-73ccb750fe20"/>
+			<Metadata name="InformationRegister.tss_gv_ЗначенияГлобальныхПеременных.Dimension.Имя" id="d9380137-6cc4-4493-8208-810bea0b4085"/>
+			<Metadata name="InformationRegister.tss_gv_ЗначенияГлобальныхПеременных.Resource.Значение" id="ee5fba8e-21aa-457f-a333-848e561e83b8"/>
+		</Metadata>
+		<Metadata name="InformationRegister.tss_gv_ЗначенияГлобальныхПеременных.Form.ФормаЗаписи" id="2342a557-d5c7-4abb-b2f1-c0208849273f" configVersion="7731ffc10e9d384d936d7a6a741fec2800000000"/>
+		<Metadata name="InformationRegister.tss_gv_ЗначенияГлобальныхПеременных.Form.ФормаЗаписи.Form" id="2342a557-d5c7-4abb-b2f1-c0208849273f.0" configVersion="ff8c31c99cd38f4cb4851a772cbf1d2600000000"/>
+		<Metadata name="InformationRegister.tss_gv_ЗначенияГлобальныхПеременных.Form.ФормаСписка" id="7d468a6c-b75e-4c7f-9e13-3d7fe59377f5" configVersion="a01ed390d491c04b860b48e174f986e600000000"/>
+		<Metadata name="InformationRegister.tss_gv_ЗначенияГлобальныхПеременных.Form.ФормаСписка.Form" id="7d468a6c-b75e-4c7f-9e13-3d7fe59377f5.0" configVersion="4be673acf1f60048a09d9fb959a3b74200000000"/>
+		<Metadata name="Language.Русский" id="b8d7ea45-dfb8-41d4-9282-72deb36f831e" configVersion="6a4e85e5be15c94eb01a61b8593d3cef00000000"/>
+		<Metadata name="Subsystem.tss_gv_ГлобальныеПеременные" id="6f597c65-777d-4824-b0d1-794ef63635e4" configVersion="63cf502ca82d454b947ade9e671eefe700000000"/>
+		<Metadata name="Subsystem.tss_gv_ГлобальныеПеременные.Help" id="6f597c65-777d-4824-b0d1-794ef63635e4.0" configVersion="6003944dc2a6374ea4d20fcb524d5b3c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
